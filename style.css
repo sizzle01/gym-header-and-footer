@@ -1,0 +1,76 @@
+/*GENENRAL STLE*/
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-toggler {
+  color: black;
+}
+.navbar-toggler-icon {
+  background-color: #ff4301;
+}
+.navbar-brand {
+  font-size: 20px;
+  color: black;
+  font-weight: 800;
+}
+span {
+  color: #ff4301;
+}
+.navlink a:hover {
+  color: #ff4301;
+}
+
+.nav-link {
+  font-size: 15px;
+  color: black;
+  font-weight: 600;
+}
+.nav-item a:hover {
+  color: #ff4301;
+}
+
+.join {
+  background-color: #ff4301;
+  color: #fff;
+}
+
+/*FOOTER STYLE*/
+.two {
+  display: flex;
+}
+p,
+.fab,
+ul,
+.policy,
+.befit {
+  color: #fff;
+}
+.para {
+  font-size: smaller;
+  font-weight: 100;
+}
+ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+h3 {
+  color: #ff4301;
+}
+button {
+  background-color: #ff4301;
+  border: 1px solid #ff4301;
+  border-radius: 5px;
+  padding: 3px;
+}
+.policy {
+  margin-top: 30px;
+}
+.foot-row {
+  background-color: black;
+  width: 100vw;
+  height: 40vh;
+  justify-content: center;
+  align-content: center;
+}
