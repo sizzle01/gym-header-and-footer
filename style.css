@@ -159,6 +159,9 @@ button {
     color: #ff4301;
 }
 
+
+/*MEDIA QUERY*/
+
 @media only screen and (max-width: 1187px) {
     .navbar-nav {
         padding-left: 5vw;
